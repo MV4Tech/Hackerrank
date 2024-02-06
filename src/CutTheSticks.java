@@ -36,11 +36,7 @@ public class CutTheSticks {
                 }
 
             }
-
-
             a.add(arr.size());
-
-
         }
 
         a.remove(a.size()-1);
